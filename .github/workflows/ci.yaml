@@ -24,7 +24,7 @@ jobs:
           go-version: 1.22
 
       - name: Build    
-         run: go-build -o go-web-app
+        run: go-build -o go-web-app
 
       - name: Test
         run: go test ./...
