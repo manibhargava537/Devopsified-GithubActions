@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: bhargava05/go-web-app
   pullPolicy: IfNotPresent
-  tag: "14958002744"
+  tag: "14964229492"
 
 ingress:
   enabled: false
